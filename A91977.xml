@@ -1,0 +1,335 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at Balderton March 27. 1646. Being a day of humiliation thorow-out the whole army before Newark. / By Robert Ram minister of Spalding in Lincolnshire, and chaplaine to Colonell Rossiter.</title>
+            <author>Ram, Robert, d. 1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91977</idno>
+            <idno type="STC">Wing R195</idno>
+            <idno type="STC">Thomason E334_6</idno>
+            <idno type="STC">ESTC R200763</idno>
+            <idno type="EEBO-CITATION">99861423</idno>
+            <idno type="PROQUEST">99861423</idno>
+            <idno type="VID">159661</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91977)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159661)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 54:E334[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at Balderton March 27. 1646. Being a day of humiliation thorow-out the whole army before Newark. / By Robert Ram minister of Spalding in Lincolnshire, and chaplaine to Colonell Rossiter.</title>
+                  <author>Ram, Robert, d. 1657.</author>
+               </titleStmt>
+               <extent>[6], 21, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright at the Kings Head in the Old Bayley.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement signed "Ioseph Caryle" on verso of first leaf.</note>
+                  <note>Annotation on Thomason copy: "Aprill 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Luke III, 14 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="approval">
+            <pb facs="tcp:159661:1"/>
+            <p>I Have peruſed this Sermon, tending much to the Advancement of Military Holi<g ref="char:EOLhyphen"/>neſſe and Orders (with theſe) the ſucceſſe of this preſent Warre; and doe therefore conceive them very uſefull for the publike, eſpecially the Armies.</p>
+            <closer>
+               <dateline>
+                  <date>April 16. 1646.</date>
+               </dateline>
+               <signed>Ioſeph Caryle.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:159661:1" rendition="simple:additions"/>
+            <p>A SERMON Preached at Balderton March 27. 1646.</p>
+            <p>Being a day of Humiliation thorow<g ref="char:EOLhyphen"/>out the whole Army before NEWARK.</p>
+            <p>By ROBERT RAM Miniſter of <hi>Spalding</hi> in <hi>Lincolnſhire,</hi> and Chaplaine to Colonell ROSSITER.</p>
+            <q>
+               <bibl>
+                  <hi>PSAL. 124.8.</hi>
+               </bibl>
+               <p>Our help is in the Name of the Lord, who made Heaven and Earth.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Iohn Wright</hi> at the Kings Head in the Old Bayley. 1646.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:159661:2"/>
+            <pb facs="tcp:159661:2"/>
+            <head>TO THE Right Honourable the Committee of Lords and Commons reſiding at the Leager before Newarke.</head>
+            <opener>
+               <salute>Right Honourable:</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Will not excuſe my ſelfe or theſe unpoliſhed Notes by the ſhortneſſe of warning, nor by the monethly Faſt the ſame week, but only by your Ho<g ref="char:EOLhyphen"/>nours command, which muſt be my beſt plea, both for the Preaching and Pub<g ref="char:EOLhyphen"/>liſhing of them. Such as they are, I am
+<pb facs="tcp:159661:3"/>humbly bold to referre both them and my ſelfe alſo to your cenſure, which I am confident will be favourable enough, becauſe I have already taſted of a great deale of undeſerved reſpect from you, which doth mightily ingage me to be</p>
+            <closer>
+               <signed>
+                  <hi>Your Honours moſt humble ſervant,</hi>
+Robert Ram.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:159661:3"/>
+            <head>A Sermon preached before the Army at NEWARK.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>LUKE 3.14.</hi>
+                  </bibl>
+                  <p>And the Souldiers likewiſe demanded of him, ſaying, And what ſhall we doe? And he ſaid unto them, Doe violence to no man, neither accuſe any falſly, and be content with your wages.</p>
+               </q>
+            </epigraph>
+            <opener>
+               <salute>Right Honourable, and welbeloved in the Lord:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> May begin my Sermon as <hi>Chryſo<g ref="char:EOLhyphen"/>ſtome</hi> did one of his at <hi>Antioch,</hi> preaching upon the converſion of <hi>Paul;</hi> who (ſaith he) will diſpaire of any man, though never ſo vild and Hopeleſſe, that ſhall heare of <hi>Pauls</hi> Converſion. In this Chapter we have mention of three ſorts of men converted to the grace of God by the Miniſtery of <hi>John Baptiſt,</hi> as unlikely to be wrought upon as any in the world: Firſt, <hi>The common people, verſ.</hi> 10. who uſually are ignorant and rude. Secondly, <hi>The Publicanes,</hi> a moſt
+<pb n="2" facs="tcp:159661:4"/>wicked generation, ranck't by our Saviour with Heathen men, and worſt of ſinners; ſo odious a<g ref="char:EOLhyphen"/>mongſt the Jews, that none would match their chil<g ref="char:EOLhyphen"/>dren into that family which had a Publicane of it. Thirdly, <hi>The Souldiers,</hi> as unbopefull to be brought to goodneſſe as the other; Barbarous <hi>Miles,</hi> the rude Souldier, was wont to be the common word. But ſuch is the unlimited power of the grace of God, and ſuch is the infinite mercy of Heaven, that even theſe ignorant people, theſe heatheniſh Publicanes, theſe barbarous Souldiers are converted to good<g ref="char:EOLhyphen"/>neſſe, and received to mercy.</p>
+            <p>My buſineſſe at this time is with the Souldiers; I wiſh it may be as profitable as 'tis ſeaſonable; Theſe Souldiers, you ſee, are inquiring of <hi>Iohn</hi> what they ſhould doe; <hi>And what ſhall we doe?</hi> is their queſtion. O 'tis a hopefull thing and a comfortable ſigne when men will be aſking Queſtions of this kinde, 'tis an argument that there is ſomething of God in their hearts, when they are unfainedly willing and deſi<g ref="char:EOLhyphen"/>rous to know the minde of God. I hope it is ſo with you, Gentlemen, and fellow Souldiers, that are come together this day; I hope you have the ſame que<g ref="char:EOLhyphen"/>ſtion in your hearts, that theſe Souldiers in the Text had in their mouthes; <hi>What ſhall we doe?</hi>
+            </p>
+            <p>In the words we may conſider:</p>
+            <p>Firſt, the perſons that move this queſtion, The Souldiers; <hi>And the Souldiers likewiſe demanded.</hi>
+            </p>
+            <p>Secondly, the queſtion they propound, which is concerning their owne duty, <hi>What ſhall we doe?</hi>
+            </p>
+            <p>Thirdly, the <hi>Baptiſts</hi> anſwer; which conſiſts of three
+<pb n="3" facs="tcp:159661:4"/>Leſſons, 1 <hi>Doe violence to no man.</hi> 2 <hi>neither accuſe any falſly.</hi> 3 <hi>Be content with your wages.</hi>
+            </p>
+            <p>
+               <hi>Iohn</hi> doth not bid them, Lay downe their Armes and give over that calling, he gives not the leaſt in<g ref="char:EOLhyphen"/>timation of any unlawfulneſſe in this military pro<g ref="char:EOLhyphen"/>feſſion, but onely hints at the uſuall miſcarriages that martiall men are prone to, and labours to regu<g ref="char:EOLhyphen"/>late theſe new converted Souldiers, inſtructing them how they ſhould behave themſelves in this calling. I will reduce all that I have to ſay at this time, upon this Tex, into this one point of Doctrine.</p>
+            <p>
+               <hi>Doct. That good Chriſtians may be Souldiers, and all Souldiers ſhould be good Chriſtians.</hi> The point hath two parts: Firſt, Good Chriſtians may be Soul<g ref="char:EOLhyphen"/>diers. Secondly, All Souldiers ſhould be good Chri<g ref="char:EOLhyphen"/>ſtians. I will handle them ſeverally: Firſt, Good Chriſtians may be Souldiers.</p>
+            <p n="1">1 Becauſe to be a Souldier is a lawfull calling, 'tis a profeſſion that hath ſufficient warrant in the Word of God, being often mentioned, but no where ſpoken againſt or forbidden either in the old or new Teſta<g ref="char:EOLhyphen"/>ment. Chriſt commends the Centurions Faith in the Goſpell, but ſpeaks nothing againſt his calling. The other Centurion mentioned <hi>Acts</hi> 10.1, 2. hath an Angell and an Apoſtle ſent to him to inſtruct him fully in the way of ſalvation but not a ſyllable a<g ref="char:EOLhyphen"/>gainſt his military profeſſion; which doubtleſſe <hi>Peter</hi> would have done, if his imployment, as a martiall man, were not good and lawfull.</p>
+            <p n="2">2 Becauſe 'tis a neceſſary calling; States and Com<g ref="char:EOLhyphen"/>mon weales can hardly ſubſiſt long without it; there
+<pb n="4" facs="tcp:159661:5"/>is great uſe to be made of the Souldier, for preven<g ref="char:EOLhyphen"/>ting of oppreſſion and violence, for defending of Rights and Liberties, for the preſerving and main<g ref="char:EOLhyphen"/>tenance of Religion, for bringing of offendors to Juſtice: Saint <hi>Paul</hi> ſaith, <hi>Rom.</hi> 13.4. <hi>That the Magi<g ref="char:EOLhyphen"/>ſtrate bears not the Sword in vain,</hi> but the Civill Sword many times would be vaine and uſeleſſe without the help of the Military Sword, <hi>Jer.</hi> 48.10.</p>
+            <p n="3">3 It is a very honourable calling to be a Souldier, not onely amongſt the Heathen, but even amongſt Chriſtians and the people of God: The Title of a Duke comes from <hi>Dux,</hi> a Captaine, a Knight in La<g ref="char:EOLhyphen"/>tine is <hi>Miles;</hi> 1 a Souldier, an Eſquire, <hi>Armiger,</hi> one that bears Arms, &amp;c. The Spirit of God makes ho<g ref="char:EOLhyphen"/>nourable mention of many that have been famous in this Profeſſion, as of <hi>Davids Worthies,</hi> 2 <hi>Sam.</hi> 23. Of the Governours of <hi>Iſrael, My heart is towards the Governours of Iſrael, that offered themſelves willing<g ref="char:EOLhyphen"/>ly amongſt the people; Bleſſe yee the Lord, Judg.</hi> 5.9. And in <hi>Pſalm.</hi> 149. The Prophet ſpeaking of the activeneſſe of Gods people, againſt the Churches Enemies, how they ſhould have a two edged Sword in their hands, to execute vengeance and puniſh<g ref="char:EOLhyphen"/>ments, <hi>To binde Kings in Chaines, and Nobles in Fet<g ref="char:EOLhyphen"/>ters,</hi> ſaith in the cloſe of all, <hi>This honour have all his Saints.</hi>
+            </p>
+            <p n="4">4 Many men famous for Religion and Piety, have been of this Profeſſion; <hi>Abraham</hi> was a Co<g ref="char:EOLhyphen"/>lonell, he had a Regiment of 318. trained men in his own houſe, and he himſelf that was called the friend of God, and the father of the faithfull, marched in
+<pb n="5" facs="tcp:159661:5"/>the head of them in that Expedition againſt <hi>Amra<g ref="char:EOLhyphen"/>phel, &amp;c. Gen.</hi> 14.14, 15. <hi>Ioſhua</hi> was a gracious man, and a renowned Warrier: <hi>David</hi> a man after Gods heart, yet a man of Warre: That <hi>Centurian,</hi> whoſe faith Chriſt ſo magnified, <hi>Matth.</hi> 8.10. was a Cap<g ref="char:EOLhyphen"/>taine over a hundred Souldiers; And ſo was <hi>Cor<g ref="char:EOLhyphen"/>nelius, Act.</hi> 10.1, 2. yet highly commended for de<g ref="char:EOLhyphen"/>votion and godlineſſe. The Apoſtle ſpeaks of ſome of whom the World was not worthy, <hi>Hebr.</hi> 11.38. and before 34. <hi>That they were valiant in fight, and tur<g ref="char:EOLhyphen"/>ned to flight the Armies of the Aliens.</hi> So then there is preſident enough to warrant that godly men may be Souldiers.</p>
+            <p n="5">5 God himſelfe diſdaines not to be counted a Souldier: <hi>The Lord is a man of Warre, Exod.</hi> 15.3. And JEHOVAH TZEBAOTH, <hi>The Lord of Hoſts,</hi> is one of the moſt frequent attributes that God is ſet out by in the Scripture, which is as much as to ſay, <hi>As the Lord of Armies,</hi> and implyes, that he commands in chiefe, and gives orders to all creatures both in Heaven and Earth.</p>
+            <p n="6">6 The Holy Ghoſt gives Rules and Directions, al<g ref="char:EOLhyphen"/>moſt in every point of Warre, as about preparati<g ref="char:EOLhyphen"/>ons, <hi>Making Warre with good advice, Prov.</hi> 20.18. for Marches, for Quarterings, concerning ſtratagems, ſummoning of Townes, ordering of Camps, &amp;c. Beſides there be many metaphors, and many compa<g ref="char:EOLhyphen"/>riſons, both in the Old and New Teſtament taken from Souldiers, and that Profeſſion, as <hi>Epheſ.</hi> 6. <hi>&amp;c.</hi> Which doubtleſſe the wiſdome of God would not have permitted, if good Chriſtians might not be Soul<g ref="char:EOLhyphen"/>diers.</p>
+            <p n="7">
+               <pb n="6" facs="tcp:159661:6"/>
+7 None are ſo fit to be Souldiers as good Chriſti<g ref="char:EOLhyphen"/>ans and godly men, eſpecially in Gods Battels: This will appeare in theſe foure particulars:</p>
+            <p n="1">1 They, of all men, will be moſt couragious and valiant; <hi>The righteous is bold as a Lyon, Prov.</hi> 28.1. The word <hi>Geber, Pſal.</hi> 37.23. tranſlated <hi>a good man,</hi> ſig<g ref="char:EOLhyphen"/>nifies alſo <hi>a ſtrong man,</hi> importing, that a good man and a ſtrong man is all one; as if none could be truly valiant but good men.</p>
+            <p n="2">2 They have moſt underſtanding, and will be well adviſed in their buſineſſe; they will be ſure of a good Cauſe, they will not draw their Sword againſt God or his People, (as our Enemies now do:) The War muſt be well warranted that they engage them<g ref="char:EOLhyphen"/>ſelves in; good men will not fight, unleſſe they have written Orders from their Generall, the Lord of Hoſts.</p>
+            <p n="3">3 They will behave themſelves like Chriſtians and good men, they will obey Orders and Commands; no danger or hardſhip ſhall diſcourage them, they will ſcorne all cowardize and baſeneſſe; godly men will be as religious in the Campe as the Church; the cuſtomary deboyſtneſſe of that profeſſion cannot prevaile upon them; when others are playing, they will be praying; when others blaſpheme, they will bleſſe; <hi>They dare not do any violence or wrong, nor ac<g ref="char:EOLhyphen"/>cuſe any man falſly, they will be contented with their Wages, &amp;c.</hi>
+            </p>
+            <p n="4">4 God will undoubtedly bleſſe and proſper both the councels and actions of a good man; <hi>The ſteps of a good man are ordered by the Lord, and he de<g ref="char:EOLhyphen"/>lighteth
+<pb n="7" facs="tcp:159661:6"/>in his way, Pſalm.</hi> 37.23. They that honour God, God will honour them: How did God go along with <hi>David</hi> in all his Wars? And how hath the Lord proſpered our New Modell?</p>
+            <p>I hope I have ſaid enough to cleare this point, <hi>That good Chriſtians may be Souldiers; That godly men may lawfully take up Arms, and fight when a juſt occaſi<g ref="char:EOLhyphen"/>on is offered.</hi>
+            </p>
+            <p>Object. But it is objected by ſome, <hi>That Chriſt Mat.</hi> 5.29. <hi>commands his Diſciples, That they ſhould not reſiſt evill, &amp;c.</hi> from which place they infer, <hi>That it is utterly unlawfull for Chriſtians, in any caſe whatſoever, to be Souldiers.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> To this I anſwer, That Chriſt there ſpeaks onely againſt private revenging of our ſelves upon thoſe that do us wrong, not forbidding publike Ju<g ref="char:EOLhyphen"/>ſtice to be done upon wrong-doers, nor the uſe of Arms, when neceſſity requires.</p>
+            <p>Object. <hi>But Chriſt rebuked Peter for drawing his Sword in his Maſters defence: Therefore chriſtians ſhould not fight, no not in the cauſe of Chriſt.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Chriſt came to ſuffer and to die, and there<g ref="char:EOLhyphen"/>fore forbids <hi>Peter</hi> to make any reſiſtance againſt the Officers.</p>
+            <p>Object. <hi>But ſome there be that hold Chriſtians ought not to fight for Religion.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> To this I anſwer, Firſt by Scripture, ſe<g ref="char:EOLhyphen"/>condly, by Reaſon; <hi>Deut.</hi> 13.12, 13, 14, 15. where the expreſſe command of God is, <hi>That if any ſhall withdraw the people to ſerve other Gods, ſuch ſhould be ſmitten with the Sword, and utterly deſtroyed.</hi> Againe,
+<pb n="8" facs="tcp:159661:7"/>
+               <hi>Ioſh.</hi> 22.11, 12. <hi>All Iſrael gathered themſelves together as one man, to go up to Warre againſt the Tribes of Ru<g ref="char:EOLhyphen"/>ben, Gad, &amp;c.</hi> for ſetting up an Altar beyond <hi>Iordan,</hi> contrary to Gods command.</p>
+            <p>This may be further cleered by theſe Reaſons:</p>
+            <p n="1">1. Religion is the glory of a Nation. 1 <hi>Sam.</hi> 4.22. <hi>And ſhe ſaid, The glory is departed from Iſrael, for the Ark of God is taken:</hi> Surely the Wealth, Peace, Honour, Strength and Proſperity of a Nation, are bound up in the truneſſe of its Religion; ſo that there cannot be a better cauſe in the World to fight for, then Religion, <hi>Preſidium &amp; dulce decus noſtrum.</hi>
+            </p>
+            <p n="2">2 The true Religion would ſoone be rooted out of the World, if it were not defended by the Sword of the Civill Magiſtrate; The Church (according to ordinary means) could not ſubſiſt long, if ſhe were not backed with Armes; ſhe hath many mighty, cruell and crafty Enemies; They have ſaid, <hi>Come let us cut them off from being a Nation, they have conſult<g ref="char:EOLhyphen"/>ed together with one conſent, &amp;c. Pſal.</hi> 33.4.12.</p>
+            <p n="3">3 We may take preſident from famous Churches abroad, that have taken up Arms in defence of their Religion, when Idolatrous Princes have gone about to deprive them of that. The ſtirs in <hi>Germany,</hi> in <hi>Luthers</hi> time, were about Religion: The Proteſtant Churches in <hi>France,</hi> and the <hi>Netherlands,</hi> have reco<g ref="char:EOLhyphen"/>vered, and do ſtill maintaine their Religion by the Sword.</p>
+            <p>Object. <hi>But what warrant have we to ingage our ſelves in this preſent Warre?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> God calls upon all his ſervants and friends
+<pb n="9" facs="tcp:159661:7"/>to help him againſt the mighty; the Lord ſaith now, as <hi>Iehu</hi> did once, <hi>Who is on my ſide? who? who will take my part againſt my Enemies?</hi> and woe be to him that ſits Newter now: You have a fearfull doome againſt newtrality, <hi>Iudg.</hi> 5.23. <hi>Rev</hi> 3.16. <hi>And wrath is upon them from the Lord that do help Gods Enemies a<g ref="char:EOLhyphen"/>gainſt him,</hi> 2 <hi>Chron.</hi> 19.2.</p>
+            <p n="2">2 Nature cals upon us, and bids us defend our ſelves from theeves and cut-throats: We are but up<g ref="char:EOLhyphen"/>on the defenſive part, men are riſen up againſt us, and would ſwallow us up, and ſhall we make no re<g ref="char:EOLhyphen"/>ſiſtance? May Beaſts, Birds, and Wormes, by their proviſion and inſtinct of nature, defend themſelves from injury, and ſhall not Chriſtians?</p>
+            <p n="3">3 The higheſt powers under God doe call upon us to arme our ſelves at this time, againſt the Enemies of our Church and State. By the higheſt powers I meane the Parliament, which, according to the con<g ref="char:EOLhyphen"/>ſtitution of our Government here in <hi>England,</hi> hath the moſt Soveraigne power over us: The King, we grant, is the higheſt perſon in his Dominions, but the Parliament is the higheſt power, and the command is, <hi>That every ſould ſhould be ſubject to the Higher Powers, Rom.</hi> 13.1.2.5. <hi>even for conſcience ſake, and as they would avoid damnation.</hi>
+            </p>
+            <p n="4">4 Religion, Law, Liberty, and whatever is deere to us, do now call upon us to take up Arms: Theſe are mightily invaded, and unleſſe we ſtand forth manfully, we ſhall be ſpoiled for ever, and <hi>England</hi> will quickly become the moſt ſlaviſh Nation in the World.</p>
+            <p n="5">
+               <pb n="8" facs="tcp:159661:8"/>
+5 All the well-affected of the Land call upon us, that we ſhould ſtand to one another, and quit our ſelves like men, like fellow-Citizens, like Brethren, againſt the Common Enemy; for the diviſions of <hi>Ruben</hi> there were great thoughts of heart, <hi>Iudg.</hi> 5.15. And may not we ſtand and wonder, that any that pre<g ref="char:EOLhyphen"/>tend any thing towards Religion, ſhould mind their pleaſures, or their profits in ſuch times as theſe; or ſhould lye lazing at home, when ſo many of Gods deere Servants are ingaged abroad. This may both awaken and incourage every one that would be ac<g ref="char:EOLhyphen"/>counted a Member of this Church in <hi>England,</hi> to come forth and joyne with his Brethren, to the utter<g ref="char:EOLhyphen"/>moſt of his ability.</p>
+            <p n="6">6 Our Children and poſterity call upon us, that we would not leave them ſlaves; That we would continue that Goſpell to them, which their Grand<g ref="char:EOLhyphen"/>fathers conveyed to us, ſigned and ſealed with their deereſt bloud.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> Now for Application of all this to our ſelves, Go on Gentlemen and fellow Souldiers, let me ſpeak to you as <hi>Ioab</hi> did to his Army, 2 <hi>Sam.</hi> 10.12. <hi>Be of good courage, and let us play the men for our people, and for the Cities of our God, and the Lord do that which ſeemeth him good.</hi> Truly Brethren, your encourage<g ref="char:EOLhyphen"/>ments are great and many, never had any Army grea<g ref="char:EOLhyphen"/>ter, or more then you have; your calling is good and warrantable, as hath been ſhewn, and that may be a comfort to you, whether you live or die.</p>
+            <p n="2">2 Your Cauſe is good, for it is Gods, you fight the Lords Battels, you are ingaged in a buſineſſe that doth
+<pb n="11" facs="tcp:159661:8"/>mightily concerne Gods glory and his Churches good.</p>
+            <p n="3">3 You fight for your King too, to recover him from his, and the Kingdomes Enemies; and even the King himſelf hath juſtified our Brethren of <hi>Scotland</hi> in the like action.</p>
+            <p n="4">4 You have the hearts and prayers of all the good and praying people of the Land; And prayer is a mighty thing. The laſt Queene of <hi>Scotland</hi> proteſt<g ref="char:EOLhyphen"/>ed to her friends, That ſhe was more afraid of Ma<g ref="char:EOLhyphen"/>ſter <hi>Knoxes</hi> prayers, then of an Army of ten thou<g ref="char:EOLhyphen"/>ſand men.</p>
+            <p n="5">5 Your Enemies are Gods Enemies; Then ſure<g ref="char:EOLhyphen"/>ly you need not feare them; they fight againſt the Lord, and his Chriſt; againſt the people of God, and that Reformation which would advance the glo<g ref="char:EOLhyphen"/>ry of God: It is impoſſible then that they ſhould proſper or prevaile againſt you.</p>
+            <p n="6">6 God hath mightily bleſt our Armies and Prepa<g ref="char:EOLhyphen"/>rations; What multitudes of glorious Victories have we been crowned withall, in the compaſſe of a few Moneths? the like hath hardly been known in any age of the World.</p>
+            <p n="7">7 Honour and Succeſſe will undoubtedly attend you; your names will be famous to Poſterity; It will be your childrens honour another day, that their fathers were Souldiers in this Cauſe; that they did help the Church, the Common-Wealth, the Par<g ref="char:EOLhyphen"/>liament, and were means to prevent their ruine: And for a reward for your paines and labours in this Service, looke for a full recompence, both here and
+<pb n="12" facs="tcp:159661:9"/>hereafter; And make no more queſtion of being vi<g ref="char:EOLhyphen"/>ctorious over all your Enemies, in Gods time, then of Gods Power and Truth, for if God be able, and his Word true, your Enemies are undone men, <hi>Zeph.</hi> 3.19. <hi>And no weapon that is formed againſt his people, ſhall proſper. Iſa.</hi> 54.17. <hi>Our help ſtandeth in the name of the Lord, he hath been with us, and he will be with us; and if God be with us, who can be againſt us?</hi>
+            </p>
+            <div type="part">
+               <head>Doe violence to no man, &amp;c.</head>
+               <p>The Baptiſt knew that men of this Profeſſion were prone to theſe evils; and indeed wofull expe<g ref="char:EOLhyphen"/>rience tels us, even in our times, that theſe are the too uſuall practiſes of Souldiers, which <hi>Iohn</hi> labours to rectifie and reforme in them. So then this is the ſecond part of the Doctrine, or the next leſſon, that I deſire every Souldier here to take forth; namely,</p>
+               <p>Doct. <hi>That Souldiers ſhould be good Chriſtians. As godly men may be Souldiers, ſo Souldiers ſhould be god<g ref="char:EOLhyphen"/>ly men.</hi> This I ſhall indeavour to prove by theſe ſix Arguments:</p>
+               <p n="1">1 The Lord of Hoſts is our <hi>generaliſſimo,</hi> and <hi>he is a God of purer eys, then to behold iniquity;</hi> He requires that all that come neare him, or belong un<g ref="char:EOLhyphen"/>to him, ſhould be holy as he is holy; Read for this purpoſe, <hi>Deut.</hi> 23.9. <hi>When the Hoſt goeth forth againſt thine Enemies, then keep thee from every wicked thing,</hi> Whatever they were or did before, they ſhould be ſure then to forbear all wickedneſſe, that ſo the Lord might go forth with them and bleſſe them. And in
+<pb n="13" facs="tcp:159661:9"/>the 14. Verſe of that Chapter, <hi>Moſes</hi> gives ſome rea<g ref="char:EOLhyphen"/>ſons why Camps and Armies ſhould be holy. 1. The Lord thy God walketh in the midſt of thy Campe, he can ſoon ſee what is amiſſe then in our Quarters: If there be any good exerciſes, as praying, reading, conferring, or the like; Or elſe if there be Drun<g ref="char:EOLhyphen"/>kenneſſe, whoring, gaming, ſwearing, mutining; the Lord cannot but take notice of it. 2. He inſinuates, That if good Order be kept in the Campe, then will the Lord both deliver ſuch godly Souldiers from their Enemies, and give up their Enemies before them. But 3. If our Camps be unholy, there will not the Lord ſtay, he will quickly be gone if our wickedneſſe be there.</p>
+               <p n="2">2 No calling allows men to be deboyſt or wicked; indeed every Profeſſion hath its peculiar corruption, but we finde not any diſpenſation for ſuch corrupti<g ref="char:EOLhyphen"/>ons; It will not excuſe a Souldier another day to plead That it is uſuall amongſt Souldiers to be drunk, to ſweare, to plunder, &amp;c. Certainly Almighty God will not be ſo anſwered; you muſt not thinke to carry it ſo; men may be as holy and religious in this Vocation, as in any other Calling amongſt men; and there have been as good and holy men of this Pro<g ref="char:EOLhyphen"/>feſſion, as of any other in the World: You muſt not live by cuſtome, or example, you muſt live accord<g ref="char:EOLhyphen"/>ing to your rule; and the rule of a Souldier is to feare God, and to abſtaine from ſin and wickedneſſe: The grace of God that brings ſalvation, teacheth all men (Souldiers as well as others) to deny all ungod<g ref="char:EOLhyphen"/>lineſſe and worldly luſts, and to live ſoberly, righte<g ref="char:EOLhyphen"/>ouſly
+<pb n="14" facs="tcp:159661:10"/>and godly in this preſent World, <hi>Titus</hi> 2. <hi>v.</hi> 11, 12.</p>
+               <p n="3">3 Souldiers of all men are in continuall danger of death, they have <hi>vitant in manibus, mortem in oculis,</hi> their lives in their hands, and death in their eye: It is therefore moſt fitting and needfull, that they ſhould be continually prepared for death. O Sirs, did you but conſider what a ſad thing it is to die without pardon of ſins, without faith, without Chriſt, and how caſuall your lives are at all times, but ſpecially when you go upon any ſervice, you would be more carefull to keep your ſelves from wickedneſſe, you would be more diligent to make your peace with God, you would not ſqander away your time ſo prodigally as many of you do, you would not dare to be ſuch as many of you are.</p>
+               <p n="4">4 No men ſtand more in need of Gods preſence and aſſiſtance, then Souldiers. It is through God that men do valiantly; alas, what are Armies and Preparations, without the Lords bleſſing? let men be never ſo ſkilfull, never ſo couragious, never ſo well furniſhed with all the Inſtruments of War, yet all is nothing, except the LORD JEHOVAH bleſſe them: <hi>Now God will not help evill doers, Iob.</hi> 8.20. How can a looſe, lewd, profane Souldier, expect that the Almighty ſhould cover his head in the day of Battell? That he ſhould put by the bullets, or blunt the Enemies Sword? Can ſuch godleſſe wretch<g ref="char:EOLhyphen"/>es, as provoke God daily by their abominations, hope that he ſhould be any waies helpfull to them? The Lord may make uſe of ſuch men, to ſerve his provi<g ref="char:EOLhyphen"/>dence,
+<pb n="15" facs="tcp:159661:10"/>as he doth of Divels, but never ſhall they ob<g ref="char:EOLhyphen"/>taine any ſpeciall favour from his hand.</p>
+               <p n="5">5 Souldiers are Inſtruments of Juſtice, a kinde of Magiſtrates, the Sword is put into their hands to bring thoſe to juſtice and condign puniſhment, which the civill Magiſtrate could not reach: Now for the Divell to rebuke ſin is not proper; for men that are guilty themſelves of violence and wickedneſſe, to be imployed in the puniſhing and reforming of the ſame faults in others, is not like to be well. If I ſhould ſay to every Souldier here, that he is a Juſtice of Peace, you would think it a ſtrange ſpeech, but tru<g ref="char:EOLhyphen"/>ly, upon the matter, it is ſo, your buſineſſe is to do what the Juſtice would not, or could not do; you are better men then you took your ſelves to be: O that the conſideration of that which you are imploy<g ref="char:EOLhyphen"/>ed about, might make you better men indeed.</p>
+               <p n="6">6 My ſixth and laſt Argument, to prove that Soul<g ref="char:EOLhyphen"/>diers ſhould be godly men, is becauſe elſe little good can be expected from them. Truly Gentlemen, it is an ill Omen, when Armies are made up of profane perſons; had I not better hopes of this, yea, did I not know, that there are ſome amongſt us, both Commanders and others, that do truly feare God, I ſhould withdraw my ſelf from this Service, as deſpai<g ref="char:EOLhyphen"/>ring of any good ſucceſſe againſt this place; we have been twice already foiled here, and have been made to turne our backs upon our Enemies, God grant our wickedneſſe (which truly is great enough) cauſe not the Lord to blaſt our Deſigne the third time? let me tell you, that the ſinfulneſſe of our Souldiers may
+<pb n="16" facs="tcp:159661:11"/>cauſe us to feare the worſt. Firſt, Becauſe wicked Souldiers cannot be valiant, wicked men may be fool<g ref="char:EOLhyphen"/>hardy, but never truly valiant; and what can be ex<g ref="char:EOLhyphen"/>pected from a company of cowards, whoſe guilty conſciences will make them feare that every Bullet will be their Mittimus to Hell? Secondly, Godleſſe men are not likely Inſtruments for God to worke by, or to make uſe of in glorious atchievements, he will not honour them that diſhonour him; they know not therefore what they do, that ſend forth the ſcum and baſeſt of their Countries into this Service. Third<g ref="char:EOLhyphen"/>ly, The wickedneſſe of Souldiers, and the ſins of a Camp, will provoke the Lord to forſake them and it. If God forſooke <hi>Iſrael,</hi> and ſuffered his people to be baffled and beaten by a ſmall Party of their Enemies, for the ſin of one <hi>Achan. Ioſh.</hi> 7. What may we feare, when we have many plundering <hi>Achans,</hi> multitudes of blaſphemers, numbers of beaſtly Drun<g ref="char:EOLhyphen"/>kards in our Armies? It is enough to make God for<g ref="char:EOLhyphen"/>ſake our Tenths, and not go out with our Armies.</p>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe</hi> 1. This in the firſt place ſerves to reprove thoſe (as well Commanders as Common Souldiers) that do not conform themſelves to the rule of this Doctrine; it is very ſad and lamentable, that men, Chriſtians, fighting and dying men, Souldiers inga<g ref="char:EOLhyphen"/>ged in this Cauſe, the beſt and nobleſt that ever men were imployed in, and having the great JEHOVAH for their Generall, ſhould carry themſelves no better <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>en many do: Are horrid Oaths, ſwiniſh Drunken<g ref="char:EOLhyphen"/>neſſe, ſhamefull filthineſſe, and violent oppreſſions, with many other groſſe impieties, ſuitable to ſuch a
+<pb n="17" facs="tcp:159661:11"/>Cauſe as ours is, and ſuch Souldiers as we profeſſe our ſelves to be? Brethren let me commend unto you theſe ſix conſiderations:</p>
+               <p n="1">1 That it were too much for Turks and Pagans to be guilty of ſuch abominations as are daily com<g ref="char:EOLhyphen"/>mitted amongſt us, that are called Chriſtians, and have undertaken to fight for Reformation.</p>
+               <p n="2">2 We condemne our Enemies the Cavaleers, for their blaſpheming and outrages, when indeed we ju<g ref="char:EOLhyphen"/>ſtifie them, by committing the ſame things, or ra<g ref="char:EOLhyphen"/>ther ſurpaſſing many of them in acts of wick<g ref="char:EOLhyphen"/>edneſſe.</p>
+               <p n="3">3 Conſider that we fight for Religion and Refor<g ref="char:EOLhyphen"/>mation; who will beleeve that we can be reall and zealous for either, when we expreſſe no more Reli<g ref="char:EOLhyphen"/>gion in our lives, and our ſelves hate to be reformed.</p>
+               <p n="4">4 Remember this, That God will not hold a Souldier guiltleſſe that taketh his name in vaine, or that provokes him in any other kinde, more then another man.</p>
+               <p n="5">5 Think upon this; That we cannot hope for Gods bleſſing, either upon our counſels or actions, if we walke ſo contrary to him; he hath proteſted that he will walke contrary to them that walk contrary to him.</p>
+               <p n="6">6 Laſtly conſider; That ſuch ungodly Souldiers will increaſe our miſery, rather then help us in them, for certainly they do but more and more inflame the wrath of Heaven againſt us, and provoke him to en<g ref="char:EOLhyphen"/>fatuate our Counſels, and blaſt our Deſignes.</p>
+               <p>Object. <hi>It is common with men of our profeſſion to
+<pb n="18" facs="tcp:159661:12"/>be more licentious then others, and of all men we may be allowed to take our liberty, and not be tyed ſo ſtri<g ref="char:EOLhyphen"/>ctly to the rules of Keligion, leaſt our ſpirits be ſnib'd and our hearts grow ſoft and cowardly.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> 1. The more pitty, that licentiouſneſſe ſhould be ſo common amongſt Souldiers; I am ſure it ſhould not be ſo: A Campe ſhould be a Schoole of vertue, wherein men ſhould learne and practiſe forti<g ref="char:EOLhyphen"/>tude, chaſtity, ſobriety, holineſſe, &amp;c.</p>
+               <p n="2">2 Sin is ſo farre from breeding of good blood, and making men valiant, that nothing doth more un<g ref="char:EOLhyphen"/>courage men; a good courage ever ſprings from a good conſcience.</p>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe</hi> 2. Next let me commend a word of Exhor<g ref="char:EOLhyphen"/>tation, 1 To you that are Commanders. 2 To you that are Common Souldiers.</p>
+            </div>
+            <div type="part">
+               <head>1 <hi>To Commanders.</hi>
+               </head>
+               <p n="1">1 Be you men fearing God your ſelves; piety is as fitting and neceſſary for you, as for any under your command; you will never governe well, nor fight well, nor live well, nor die well, if you do not truly feare God.</p>
+               <p n="2">2 Make choiſe, ſo neer as you can, of honeſt and godly men to be your Souldiers; one ſuch is worth a hundred that have nothing of God in them, let ſuch be entertained, let ſuch be countenanced.</p>
+               <p n="3">3 Uſe your Power and Authority to reſtraine wickedneſſe; you may do much this way, and God looks for much from you; puniſh ſwearers and drun<g ref="char:EOLhyphen"/>kards
+<pb n="19" facs="tcp:159661:12"/>and prophaners of Sabbaths, leaſt their ſinnes be put upon your ſcores.</p>
+               <p n="4">4 Walk you ſo before your Souldiers, in ſober<g ref="char:EOLhyphen"/>neſſe, chaſtity and holineſſe, that your examples may be a law to them; And let them not have occaſion to ſay, My Captaine, or my Colonell, will ſweare, will be drunke, &amp;c. and why may not I do ſo to?</p>
+            </div>
+            <div type="part">
+               <head>2 <hi>To Common Souldiers.</hi>
+               </head>
+               <p>My exhortation to you ſhall be this in the Text, the very ſame that <hi>John Baptiſt</hi> gave to his Souldiers; me thinks I heare you asking of me, as they did of him, <hi>What ſhall we do?</hi> I ſay as he did, <hi>Do violence to no man.</hi>
+               </p>
+               <p>That is, uſe no cruelty, nor injuſtice, do not op<g ref="char:EOLhyphen"/>preſſe any man, nor put men in feare, as the Margi<g ref="char:EOLhyphen"/>nall note hath it. That you may be perſwaded to this, conſider;</p>
+               <p n="1">1 <hi>That Almighty God hates violence, Pſal.</hi> 11.5.</p>
+               <p n="2">2 <hi>That grace abhors all ſuch actions.</hi>
+               </p>
+               <p n="3">3 <hi>That all injuries ſhall be avenged, Proverb.</hi> 28.17. <hi>Coloſ.</hi> 3.11.</p>
+            </div>
+            <div type="part">
+               <head>Neither accuſe any man falſly.</head>
+               <p>Take heed of making offenders of innocent men, raiſe no ſlanders upon your ſuperiours, wrong not your fellow Souldiers by falſe reports: Now againſt this evill conſider;</p>
+               <p n="1">1 That a mans good name is very precious.</p>
+               <p n="2">
+                  <pb n="20" facs="tcp:159661:13"/>
+2 That 'tis extreme injuſtice to accuſe any man falſly, <hi>Prov.</hi> 25.18.</p>
+               <p n="3">3 That though a Souldier may outface a poore man, yet can he not outface God.</p>
+            </div>
+            <div type="part">
+               <head>And be content with your wages.</head>
+               <p>This prohibits mutining, plundring, detayning of Pay by Officers, any kinde of fraud, improvidence, and profuſeneſſe, &amp;c. Now to perſwade this conſider,</p>
+               <p n="1">1 'Tis a brave thing to be contented.</p>
+               <p n="2">2 That a Souldier ſhould be content with a little; Food and Rament is enough.</p>
+               <p n="3">3 That a good Souldier hath the Publique Faith of Heaven for better Pay then State Wages.</p>
+               <p>And now for a cloſe of all, give me leave to adde but one thing more, which I ſhould have been larger in, had not the time prevented me; It is concerning the buſineſſe of this day: You know it was deſired and appointed by the Honourable Committee, and our worthy Commanders, that this day ſhould be ſet apart for the whole Army to ſeeke God in a ſo<g ref="char:EOLhyphen"/>lemn way of Humiliation, for his bleſſing upon our deſigns againſt this place; Bleſſed be the Lord that put it into their hearts; and bleſſed be our God that vouchſafes us this liberty and encouragement: O 'tis a hopefull buſineſſe that begins with God. And now that we may ingage the Lord of Hoſts to take our parts, and to proſper our work in hand, let me tell you, that there are three things chiefly required of us all, for the crowning of our deſires, and for the
+<pb n="21" facs="tcp:159661:13"/>obtaining of the help of Heaven againſt our Enemies.</p>
+               <p>Firſt, That we ſhould ſearch out and bewaile, even with godly ſorrow, and bitterneſſe of ſoul, the evils of our own hearts and waies, and labour what we can to be afflicted in our ſpirits for our provo<g ref="char:EOLhyphen"/>cations.</p>
+               <p>Secondly, To take up a reſolution, and to en<g ref="char:EOLhyphen"/>ter into a Covenant with Almighty God, of more conſcionable walking before him; this is a main part of ſuch a daies duty, and the Lord expects this from every one of us; God grant we may do it.</p>
+               <p>Thirdly, We muſt poure out our ſouls to God in fervent and faithfull prayer; This is our beſt wea<g ref="char:EOLhyphen"/>pon, both for defence and offence; <hi>Moſes</hi> prayer, <hi>Exod.</hi> 17.11. prevailed more againſt <hi>Amalek,</hi> then <hi>Jo<g ref="char:EOLhyphen"/>ſua's</hi> Sword; and truly prayer ought to be added to all other preparations; ſo that as this is our buſineſſe to day, ſo ſhould we make our moſt earneſt requeſts to the Lord, that he would bleſſe our Army, our Counſels, our Preparations, and our undertakings: I beſeech you then let every one of us put theſe things in practice; which if we do, I dare promiſe that <hi>Newark</hi> will ſoone be ours, and we ſhall ſudden<g ref="char:EOLhyphen"/>ly ſee our deſires upon all our Enemies: The Lord of Hoſts will encamp with us, fight for us, cover our heads in the day of Battell, and make us both valiant and victorious. Conſider what I ſay, and the Lord give you underſtanding in all things.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
